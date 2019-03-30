@@ -1,0 +1,3 @@
+﻿  Data_generator.cpp
+d:\vs 2017 projects\data_generator\data_generator\data_generator.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Data_generator.vcxproj -> D:\VS 2017 projects\Data_generator\x64\Debug\Data_generator.exe
